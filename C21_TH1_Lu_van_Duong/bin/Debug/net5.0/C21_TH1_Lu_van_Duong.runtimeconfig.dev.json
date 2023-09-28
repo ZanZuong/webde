@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\luduo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\luduo\\.nuget\\packages"
+    ]
+  }
+}
